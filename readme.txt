@@ -19,6 +19,14 @@ To include the login form on the front end of your site just paste the shortcode
 
 To change the login url to a pager where you have the front end form navigate to Wp Admin->Settings->LH Login Page and paste the page id into the field.
 
+Check out [our documentation][docs] for more information. 
+
+All tickets for the project are being tracked on [GitHub][].
+
+
+[docs]: http://lhero.org/plugins/lh-login-page/
+[GitHub]: https://github.com/shawfactor/lh-login-page
+
 Features:
 
 * Front end login form inserted via shortcode
